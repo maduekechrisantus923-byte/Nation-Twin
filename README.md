@@ -1,2 +1,2 @@
 # Nation-Twin
-This is ai nation twin.
+Nigeria's AI Digital Twin
